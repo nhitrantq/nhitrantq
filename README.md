@@ -1,5 +1,11 @@
 Hey there 👋 !!
 
+My name is Nhi Tran.
+
+I am PhD with a specialization in Natural Language Processing (NLP) and Computer Vision. 
+
+Currently i'm working as Lead Data Scientist for a chatbot factory solution at Invivoo.
+
 Here is a summary of studies on chatbot's NLP that I published in [Invivoo github](https://github.com/xcomponent/chatbot-nlp):
 
 - Data augmentation for intent prediction: [data_augmentation_for_intent_detection.ipynb](https://github.com/xcomponent/chatbot-nlp/blob/main/data_augmentation_for_intent_detection.ipynb)
